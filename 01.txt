@@ -20,3 +20,6 @@ git  gui  要配置用户的系统变量   %HOME%    %USERPROFILE%
 
 测试 git分支
 666666666666
+
+测试模拟修改bug  储藏当前的工作现场，然后创建新的分支修复后合并
+ git stash 
